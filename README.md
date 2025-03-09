@@ -40,16 +40,4 @@ The model is trained and evaluated in a **Kaggle Notebook** with GPU acceleratio
 ✅ Evaluate on test set  
 
 ---
-
-## 📈 Performance  
-| Metric  | Score  |
-|---------|--------|
-| **Accuracy**  | **85.3%**  |
-| **F1-Score**  | **83.7%**  |
-
-🔹 **Confusion Matrix:**  
-![Confusion Matrix](results/confusion_matrix.png)  
-
----
-
-## 📂 Repository Structure  
+e  
