@@ -12,8 +12,8 @@ The model is trained and evaluated in a **Kaggle Notebook** with GPU acceleratio
 ## 📊 Dataset  
 - **Dataset Name:** [AG_news](https://huggingface.co/datasets/SetFit/ag_news).  
 - **Source:** Hugging Face  
-- **Classes:** 🏷️ (e.g., Positive, Negative, Neutral)  
-- **Size:** 📏 (e.g., 50,000 text samples)  
+- **Classes:** 🏷️ 'World', 'Sports', 'Business', 'Sci/Tech'  
+- **Size:** 📏 120k  
 
 ---
 
@@ -25,7 +25,7 @@ The model is trained and evaluated in a **Kaggle Notebook** with GPU acceleratio
 ---
 
 ## 🏗️ Model Architecture  
-- **Base Model:** `bert-base-uncased` (from Hugging Face Transformers)  
+- **Base Model:** `roberta-base` (from Hugging Face Transformers)  
 - **Fine-tuned for** text classification (multiclass)  
 - **Optimizer:** AdamW  
 - **Loss Function:** CrossEntropyLoss  
@@ -36,7 +36,7 @@ The model is trained and evaluated in a **Kaggle Notebook** with GPU acceleratio
 ## 🔧 Training Pipeline  
 ✅ Load dataset from Hugging Face  
 ✅ Preprocess text & tokenize using BERT tokenizer  
-✅ Fine-tune BERT on Kaggle with **GPU** (16GB Tesla P100)  
+✅ Fine-tune BERT on Kaggle with **GPU** (Tesla P100)  
 ✅ Evaluate on test set  
 
 ---
