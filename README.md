@@ -37,6 +37,5 @@ The model is trained and evaluated in a **Kaggle Notebook** with GPU acceleratio
 ✅ Load dataset from Hugging Face  
 ✅ Preprocess text & tokenize using BERT tokenizer  
 ✅ Fine-tune BERT on Kaggle with **GPU** (Tesla P100)  
-✅ Evaluate on test set  
 
 ---
