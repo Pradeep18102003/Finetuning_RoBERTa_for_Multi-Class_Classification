@@ -10,7 +10,7 @@ The model is trained and evaluated in a **Kaggle Notebook** with GPU acceleratio
 ---
 
 ## 📊 Dataset  
-- **Dataset Name:** [Dataset Name](https://huggingface.co/datasets/DatasetName)  
+- **Dataset Name:** [AG_news](https://huggingface.co/datasets/DatasetName).  
 - **Source:** Hugging Face  
 - **Classes:** 🏷️ (e.g., Positive, Negative, Neutral)  
 - **Size:** 📏 (e.g., 50,000 text samples)  
