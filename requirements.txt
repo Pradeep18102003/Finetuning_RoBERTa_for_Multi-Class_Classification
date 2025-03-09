@@ -1,0 +1,6 @@
+ipynb
+transformers 
+datasets 
+huggingface_hub 
+tensorboard==2.11
+torch
