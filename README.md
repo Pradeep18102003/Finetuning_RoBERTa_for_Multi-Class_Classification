@@ -18,7 +18,7 @@ The model is trained and evaluated in a **Kaggle Notebook** with GPU acceleratio
 ---
 
 ## 🚀 How to Run the Notebook
-1️⃣ **Open the Kaggle Notebook:** [Click Here](Kaggle_Link_Here)  
+1️⃣ **Open the Kaggle Notebook:** [Kaggle_Link_Here](https://www.kaggle.com/code/pradeep18102003/notebook29ef978133/edit) 
 2️⃣ **Run All Cells** (Pre-configured to load data & train model)  
 3️⃣ **Results are auto-saved in Kaggle’s output directory**  
 
