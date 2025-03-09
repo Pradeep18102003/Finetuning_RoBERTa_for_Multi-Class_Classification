@@ -40,4 +40,3 @@ The model is trained and evaluated in a **Kaggle Notebook** with GPU acceleratio
 ✅ Evaluate on test set  
 
 ---
-e  
