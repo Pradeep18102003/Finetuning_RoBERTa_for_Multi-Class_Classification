@@ -40,5 +40,5 @@ The model is trained and evaluated in a **Kaggle Notebook** with GPU acceleratio
 
 ---
 ## 📧 Contact
-If you have any questions or feedback, feel free to reach out via email: pradeep18kumar10@gmail.com linkedin: https://www.linkedin.com/in/pradeep-kumar-bba090320/.
+- If you have any questions or feedback, feel free to reach out via email: pradeep18kumar10@gmail.com linkedin: https://www.linkedin.com/in/pradeep-kumar-bba090320/.
 ---
